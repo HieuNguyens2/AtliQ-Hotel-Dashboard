@@ -52,3 +52,6 @@ I have attached the metrics list. If you want more details about the metrics I u
 
 
 
+* Elite (Cao cấp): $554M, đóng góp lớn nhất vào doanh thu.
+* Standard (Tiêu chuẩn): $306M, thấp nhất nhưng vẫn chiếm phần đáng kể. 
+=> Các loại phòng cao cấp chiếm ưu thế trong tổng doanh thu.
