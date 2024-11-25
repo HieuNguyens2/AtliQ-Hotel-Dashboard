@@ -1,4 +1,4 @@
-# AtliQ-Hotel-Dashboard
+# AtliQ Hospitality -Dashboard
 
 ## Introduce about AtliQ
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
@@ -9,8 +9,9 @@ Due to strategic moves from other competitors and ineffective decision-making in
 ## Task
 - Create the metrics based on the metric list using DAX (Power BI)
 - Create a dashboard to assist them in addressing the problem.
+
 ## Dataset Details
-This file contains all the meta information regarding the columns described in the CSV files. We have provided 5 CSV files as well as a metric list
+This file contains all the meta information regarding the columns described in the CSV files. We have provided 5 CSV files:
 * dim_date
 * dim_hotels
 * dim_rooms
@@ -19,7 +20,19 @@ This file contains all the meta information regarding the columns described in t
 
 ## Step 
 1) Importing and verifying data. Transformations and cleaning in power query
-Import dữ liệu qua đường dẫn của file. Sau đó ta thực hiện tạo các bảng dim và fact
+* Import dữ liệu qua đường dẫn của file. Sau đó ta thực hiện tạo các bảng dim và fact
+
+![importdata](https://github.com/user-attachments/assets/8e7d124d-e88e-453f-be38-0e3b3c3581dc)
+
 2) Data modeling
+
+![Screenshot 2024-11-25 102531](https://github.com/user-attachments/assets/b58da8af-bc9b-441d-8d81-1b111a97f1b1)
+
 3) Create New Measures using DAX.
 4) Creating Dashboard using appropriate Visualization.
+
+
+
+
+
+
