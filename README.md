@@ -6,8 +6,11 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 ## Problem Statement
 Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the Luxury/Business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights. Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
+## Task
+- Create the metrics based on the metric list using DAX (Power BI)
+- Create a dashboard to assist them in addressing the problem.
 ## Dataset Details
-This file contains all the meta information regarding the columns described in the CSV files. We have provided 5 CSV files:
+This file contains all the meta information regarding the columns described in the CSV files. We have provided 5 CSV files as well as a metric list
 * dim_date
 * dim_hotels
 * dim_rooms
@@ -16,6 +19,7 @@ This file contains all the meta information regarding the columns described in t
 
 ## Step 
 1) Importing and verifying data. Transformations and cleaning in power query
+Import dữ liệu qua đường dẫn của file. Sau đó ta thực hiện tạo các bảng dim và fact
 2) Data modeling
 3) Create New Measures using DAX.
 4) Creating Dashboard using appropriate Visualization.
