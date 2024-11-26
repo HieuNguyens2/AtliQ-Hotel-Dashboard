@@ -74,6 +74,9 @@ Looking at the **Key Metrics** chart:
 
 Additionally, **weekends** have a higher occupancy rate than **weekdays**. This indicates that customers tend to travel during weekends.
 
+Looking at the metrics table: Most property in **Hyderabad** have relatively low RevPAR.
+
+![p1](https://github.com/user-attachments/assets/9b28f799-9774-4754-83dc-e75fbac60e5b)
 
 Next is the Booking Dashboard, which provides insights into the booking situation at the hotel.
 ![Screenshot 2024-11-26 190550](https://github.com/user-attachments/assets/84b4e602-ede6-4130-9c3f-56a1d3483478)
@@ -81,3 +84,5 @@ Next is the Booking Dashboard, which provides insights into the booking situatio
 
 Finally, the Rating & Customer Dashboard helps the business understand customer behavior when they visit the hotel.
 ![Screenshot 2024-11-26 190825](https://github.com/user-attachments/assets/6cf86fb8-7fa5-4d6f-8b6e-43df3b829c90)
+
+
