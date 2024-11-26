@@ -66,11 +66,11 @@ First is the Overview Dashboard, which provides an overview of important informa
 
 Looking at the **Key Metrics** chart:
 
-**ADR**: There were no significant changes, indicating that the average hotel rate remained stable across the weeks.
+* **ADR**: There were no significant changes, indicating that the average hotel rate remained stable across the weeks.
 
-**Occupancy Rate**: However, it showed a downward trend towards the end of July, which could impact RevPAR.
+* **Occupancy Rate**: However, it showed a downward trend towards the end of July, which could impact RevPAR.
 
-**RevPAR**: It was unstable due to fluctuations in occupancy rate.
+* **RevPAR**: It was unstable due to fluctuations in occupancy rate.
 
 Additionally, **weekends** have a higher occupancy rate than **weekdays**. This indicates that customers tend to travel during weekends.
 
