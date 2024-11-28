@@ -60,6 +60,7 @@ I have attached the metrics list. If you want more details about the metrics I u
 ### 4) Creating Dashboard using appropriate Visualization.
 We create three dashboards to give the business a complete view of all aspects.
 
+#### Overview Dashboard
 First is the Overview Dashboard, which provides an overview of important information and key metrics:
 ![Screenshot 2024-11-26 185527](https://github.com/user-attachments/assets/bb5466ae-7c14-4b97-a056-4bfbfe647549)
 **Revenue** from May to July reached 1.688M Rupees, showing a growth of 7.9% compared to the previous week.
@@ -78,10 +79,18 @@ Looking at the metrics table: Most property in **Hyderabad** have relatively low
 
 ![p1](https://github.com/user-attachments/assets/9b28f799-9774-4754-83dc-e75fbac60e5b)
 
+#### Booking Dashboard
+
 Next is the Booking Dashboard, which provides insights into the booking situation at the hotel.
 ![Screenshot 2024-11-28 092509](https://github.com/user-attachments/assets/6dcc5db8-03f0-43af-9b2e-de46954b7f99)
 
+Although it's summer, our hotel is welcoming a large number of customers. 133,000 bookings were recorded, but only 93,000 were successful, and nearly 30% of the remaining bookings were canceled.
 
+For each **room class**:
+* The Elite room can accommodate up to 85,000 guests (showing that this is the preferred room at the hotel), but there were only 49,000 bookings and 12,000 guests decided to cancel. This is a significant number, especially considering this room type is expected to be a main revenue source.
+
+
+#### Rating & Customer Dashboard
 Finally, the Rating & Customer Dashboard helps the business understand customer behavior when they visit the hotel.
 ![Screenshot 2024-11-26 190825](https://github.com/user-attachments/assets/6cf86fb8-7fa5-4d6f-8b6e-43df3b829c90)
 
