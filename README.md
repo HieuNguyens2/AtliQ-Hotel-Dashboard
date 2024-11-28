@@ -79,7 +79,7 @@ Looking at the metrics table: Most property in **Hyderabad** have relatively low
 ![p1](https://github.com/user-attachments/assets/9b28f799-9774-4754-83dc-e75fbac60e5b)
 
 Next is the Booking Dashboard, which provides insights into the booking situation at the hotel.
-![Screenshot 2024-11-26 190550](https://github.com/user-attachments/assets/84b4e602-ede6-4130-9c3f-56a1d3483478)
+![Screenshot 2024-11-28 092509](https://github.com/user-attachments/assets/6dcc5db8-03f0-43af-9b2e-de46954b7f99)
 
 
 Finally, the Rating & Customer Dashboard helps the business understand customer behavior when they visit the hotel.
