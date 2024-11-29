@@ -24,7 +24,7 @@ This file contains all the meta information regarding the columns described in t
 * fact_aggregated_bookings
 * fact_bookings
 
-# Step 
+# Steps to Execute 
 ### 1) Importing and verifying data. Transformations and cleaning in power query
 * Import the data using the file path. We need create the dim and fact tables. Then, we need to transform and clean dim_date
 
@@ -77,22 +77,54 @@ Additionally, **weekends** have a higher occupancy rate than **weekdays**. This 
 
 Looking at the metrics table: Most property in **Hyderabad** have relatively low RevPAR.
 
-![p1](https://github.com/user-attachments/assets/9b28f799-9774-4754-83dc-e75fbac60e5b)
+![image](https://github.com/user-attachments/assets/87670009-35fa-460c-8e28-d1c220ea6ddf)
 
 #### Booking Dashboard
 
 Next is the Booking Dashboard, which provides insights into the booking situation at the hotel.
-![Screenshot 2024-11-28 092509](https://github.com/user-attachments/assets/6dcc5db8-03f0-43af-9b2e-de46954b7f99)
+![image](https://github.com/user-attachments/assets/fdc018b9-6cdf-4250-ab0d-adc2207512ef)
 
 Although it's summer, our hotel is welcoming a large number of customers. 133,000 bookings were recorded, but only 93,000 were successful, and nearly 30% of the remaining bookings were canceled.
 
+* The cancellation rate is 25%, which is quite high. This reflects that the hotel is struggling to retain customers. It also impacts the Occupancy Rate, making it challenging to optimize room utilization.
+
 For each **room class**:
 * The Elite room can accommodate up to 85,000 guests (showing that this is the preferred room at the hotel), but there were only 49,000 bookings and 12,000 guests decided to cancel. This is a significant number, especially considering this room type is expected to be a main revenue source.
-* On the other hand, the Standard and Premium rooms performed better, indicating that customer demand is focused on the mid-range segment. Meanwhile, the Presidential room – the epitome of luxury – seems to be overlooked, with a large surplus capacity and a low number of bookings.
+
+* On the other hand, the Standard and Premium rooms performed better, indicating that customer demand is focused on the mid-range segment. Meanwhile, the Presidential room seems to be overlooked, with a large surplus capacity and a low number of bookings.
+
+For Platform:
+* Hệ thống ghi nhận hầu hết khách hàng đều đặt phòng từ nguồn không rõ ràng (other) điều này khiến việc dự đoán và tối ưu hóa gặp khó khăn
+
 
 
 #### Rating & Customer Dashboard
 Finally, the Rating & Customer Dashboard helps the business understand customer behavior when they visit the hotel.
-![Screenshot 2024-11-26 190825](https://github.com/user-attachments/assets/6cf86fb8-7fa5-4d6f-8b6e-43df3b829c90)
+![image](https://github.com/user-attachments/assets/8a48a76c-c34e-4159-9388-dff29635c7f1)
+* The number of guests fluctuates and shows a decreasing trend in the final weeks (18.3K in week 30), indicating a decline in demand and the influence of other factors such as the low season.
+* For groups of 5-6 guests, the "Standard" room class accounts for the majority of total bookings (>65%), demonstrating strong demand for this type of room.
+* Properties like "Atliq Seasons" have very low ratings (2.30), which may require focusing on improving services or customer engagement.
+* Delhi has the highest rating (3.78), while "Atliq Blu" achieves 3.96. This suggests that marketing strategies should focus more on these strengths.
+
+
+## Solution
+* **Exploring Elite Rooms:** Since our target customers are in the luxury segment, marketing campaigns focused on Elite and Presidential rooms are essential. Weekly discounts and package deals can help attract and retain luxury travelers.
+
+* **Implementing a Dynamic Pricing:** increase Occupancy Rate as well as optimize room rate based on demand
+
+* **Provide reschedule policy:** the policy can help AtliQ reduce cancellation rate
+
+* **Focus on online channels:** Apply promotions on apps to encourage customers to book rooms.
+
+
+
+
+
+
+
+
+
+
+
 
 
