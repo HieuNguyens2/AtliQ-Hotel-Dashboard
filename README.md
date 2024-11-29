@@ -88,6 +88,7 @@ Although it's summer, our hotel is welcoming a large number of customers. 133,00
 
 For each **room class**:
 * The Elite room can accommodate up to 85,000 guests (showing that this is the preferred room at the hotel), but there were only 49,000 bookings and 12,000 guests decided to cancel. This is a significant number, especially considering this room type is expected to be a main revenue source.
+* On the other hand, the Standard and Premium rooms performed better, indicating that customer demand is focused on the mid-range segment. Meanwhile, the Presidential room – the epitome of luxury – seems to be overlooked, with a large surplus capacity and a low number of bookings.
 
 
 #### Rating & Customer Dashboard
